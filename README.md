@@ -14,7 +14,7 @@
 | Hamza Shahab Awan | Department of Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan |
 
 
-📧 Correspondence: `hamzashahabawan@gmail.com` | `sp24-pcs-006@cuilahore.edu.pk`
+📧 Correspondence: `"Dr. Abid Sohail Bhutta" <  abidbhutta@cuilahore.edu.pk  >`
 
 ---
 
