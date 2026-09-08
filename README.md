@@ -12,9 +12,7 @@
 |---|---|
 | **Hamza Shahab Awan** *(Corresponding Author)* | Department of Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan |
 | Abid Sohail | Department of Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan |
-| Tamim Alkhalifah | Department of Computer Engineering, College of Computer, Qassim University, Buraydah, Saudi Arabia |
-| Fahad Alturise | Department of Cybersecurity, College of Computer, Qassim University, Buraydah, Saudi Arabia |
-| Yaser Daanial Khan | School of Science and Technology, Department of Computer Science, School of Systems and Technology, University of Management and Technology, Lahore, Pakistan |
+
 
 📧 Correspondence: `hamzashahabawan@gmail.com` | `sp24-pcs-006@cuilahore.edu.pk`
 
