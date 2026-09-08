@@ -10,8 +10,8 @@
 
 | Name | Affiliation |
 |---|---|
-| **Hamza Shahab Awan** *(Corresponding Author)* | Department of Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan |
-| Abid Sohail | Department of Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan |
+| **Abid Sohail** *(Corresponding Author)* | Department of Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan |
+| Hamza Shahab Awan | Department of Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan |
 
 
 📧 Correspondence: `hamzashahabawan@gmail.com` | `sp24-pcs-006@cuilahore.edu.pk`
